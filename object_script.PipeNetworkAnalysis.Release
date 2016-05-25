@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\PipeEditorDialog.o
+./release\Fluid.o
+./release\PipeNetworkSystem.o
+./release\PipeNetworkGUI.o
+./release\Pipe.o
+./release\FlowNode.o
+./release\FlowBaseClass.o
+./release\moc_PipeEditorDialog.o
+./release\moc_PipeNetworkGUI.o
+);

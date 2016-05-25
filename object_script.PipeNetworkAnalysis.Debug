@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\PipeEditorDialog.o
+./debug\Fluid.o
+./debug\PipeNetworkSystem.o
+./debug\PipeNetworkGUI.o
+./debug\Pipe.o
+./debug\FlowNode.o
+./debug\FlowBaseClass.o
+./debug\moc_PipeEditorDialog.o
+./debug\moc_PipeNetworkGUI.o
+);
